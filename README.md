@@ -5,7 +5,7 @@
 - 🔬 Ph.D. in Machine Learning — École CentraleSupélec (ONERA / DGA)
 - 🏭 Currently @ [GitGuardian](https://www.gitguardian.com/) — LLM-based architectures, evaluation pipelines, synthetic data generation
 - 📦 Author of [`cvnn`](https://github.com/NEGU93/cvnn) — 150k+ pip downloads, 190+ GitHub stars
-- 🏆 1st place SAFRAN Data Challenge 2023 · 3rd place J.P. Morgan Hackathon 2019
+- 🏆 4× SAFRAN competition winner (Innovation Award · Data WEC · Data Challenge) · 3rd place J.P. Morgan Hackathon 2019
 - 📄 9+ publications, h-index 8, 175+ citations
 
 ## 🤖 LLM & AI Projects
